@@ -1,3 +1,9 @@
+[Katerina Pavlenko] integrate GitHub with JIRA for project management.
+https://github.com/cakeinpanic/jira-description-action
+
+[Katerina Pavlenko] Github actions: пишем свой
+https://medium.com/@cakeinpanic/github-actions-пишем-свой-8eb0a05c3e8a
+
 # jira-description-action
 
 > A lightweight solution to integrate GitHub with JIRA for project management. 🔎
